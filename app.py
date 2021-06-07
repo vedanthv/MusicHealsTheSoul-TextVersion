@@ -23,7 +23,7 @@ sp = spotipy.Spotify(client_credentials_manager=client_credentials_manager)
 
 # fxn
 
-pipe_lr = joblib.load(open("models/emotion_classifier.pkl", 'rb'))
+pipe_lr = joblib.load(open("emotion_classifier.pkl", 'rb'))
 
 
 def predict_emotions(docx):
