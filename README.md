@@ -16,7 +16,7 @@ In this project, we have created a live emotion detection algorithm that can pre
 The coronavirus pandemic has taken a serious toll on our mental health. And one of the few things that makes us feel good is music.It's something that disconnects us from the grim reality. Music has kept most of us sane during these testing times. One of the greatest qualities of music is the range of emotion in the songs. Each song has been written by the songwriters, who pen their emotions into beautiful songs, and this application hopes to help people relax and listen to songs based on their emotion and mental state at that time.
 
 ## Demo of the Application
-
+<img src = 'appdemo.gif'>
 
 ## Deployed App
 
