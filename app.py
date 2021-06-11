@@ -63,7 +63,7 @@ def main():
         st.subheader("Well Crafted songs to Cheer Up your mood")
 
         with st.form(key="emotion-clf-form"):
-            raw_text = st.text_area("Type Here")
+            raw_text = st.text_area("How are you feeling today?")
             submit_text = st.form_submit_button(label='Submit')
 
         if submit_text:
