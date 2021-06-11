@@ -38,7 +38,6 @@ Make sure you have all the dependencies mentioned in requirements.txt
 ### Next Steps
 
 - [ ] Add Movie Recommendation with IMDB
-- [ x ] Deployment of the application
 - [ ] Speech Seniment Analysis
 - [ ] UI/UX Design Improvements
 - [ ] Improve Model Efficiency
