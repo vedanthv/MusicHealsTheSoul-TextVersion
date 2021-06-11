@@ -55,7 +55,7 @@ track_ids = get_track_ids(playlist_id)
 
 def main():
     st.title("Music heals The Soul")
-    menu = ['Home', 'Monitor', 'About']
+    menu = ['Home']
 
     choice = st.sidebar.selectbox("Menu", menu)
 
