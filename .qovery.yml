@@ -1,0 +1,11 @@
+---
+application:
+  name: "musichealsthesoul"
+  project: "Test"
+  organization: "QoveryCommunity"
+routers:
+- name: "main-musichealsthesoul"
+  routes:
+  - application_name: "musichealsthesoul"
+    paths:
+    - "/*"
